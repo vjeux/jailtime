@@ -1,0 +1,9 @@
+{
+  "name": "jailtime",
+  "version": "0.0.0",
+  "description": "Intercept external calls in a node application",
+  "main": "jailtime.js",
+  "repository": "https://github.com/vjeux/jailtime",
+  "author": "vjeux",
+  "license": "MIT"
+}
